@@ -16,6 +16,11 @@ git add main.cpp    # Add specific file (Recommended)
 git commit -m "feat: implement basic server loop"
 
 # Upload to GitHub
+
+# 替换为你的仓库地址
+git remote add origin git@github.com:你的用户名/仓库名.git
+git push -u origin main
+
 git push origin main
 ```
 
